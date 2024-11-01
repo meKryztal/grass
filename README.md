@@ -19,3 +19,30 @@ console.log(localStorage.getItem('userId'))
 'socks5://user:password@ip:port',
 ```
 
+# Установка:
+1. Установить python (Протестировано на 3.11)
+
+2. Установить модули
+   
+   ```
+   pip install -r requirements.txt
+   ```
+ 
+   или
+   
+   ```
+   pip3 install -r requirements.txt
+   ```
+
+
+
+3. Запуск
+   ```
+   python gr.py
+   ```
+
+   или
+
+   ```
+   python3 gr.py
+   ```
