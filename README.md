@@ -15,8 +15,9 @@ console.log(localStorage.getItem('userId'))
 
 ## Прокси такого вида
 ```
-'http://user:password@ip:port',
-'socks5://user:password@ip:port',
+http://user:password@ip:port
+или
+socks5://user:password@ip:port
 ```
 
 # Установка:
