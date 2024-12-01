@@ -1,4 +1,0 @@
-aiohttp
-aiohttp-socks
-fake-useragent
-loguru
